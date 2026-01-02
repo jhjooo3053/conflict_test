@@ -1,2 +1,3 @@
 practice2 내용수정 후 나중에 push
 practice1이 test.txt 파일내용 먼저 수정 후 push
+먼저 main과 병합하지 않고 개인 브랜치에서 수정
