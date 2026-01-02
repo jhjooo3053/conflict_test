@@ -1,1 +1,2 @@
 practice2 내용수정 후 나중에 push
+practice1이 test.txt 파일내용 먼저 수정 후 push
